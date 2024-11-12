@@ -1,0 +1,12 @@
+package com.workshop.operations;
+
+public class car {
+	
+	public String name;
+	public String brand;
+	public String model;
+	public String color;
+	public int tyre;
+	
+
+}
